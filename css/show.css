@@ -1,3 +1,24 @@
+body {
+    background : url(../img/abstract-background.jpg) no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div.info h3 {
+    margin-bottom : 25px;
+    font-weight : bold;
+    color : white;
+}
+
+div.info {
+    box-shadow : 1px 1px 10px 0px #00b3b3 inset;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
 .product {
     height : 400px;
 }
