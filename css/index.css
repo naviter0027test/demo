@@ -6,6 +6,14 @@ body {
     background-size : 100% 100%;
 }
 
+h1 {
+    color : white;
+}
+
+.product li {
+    color : white;
+}
+
 .product {
     height : 500px;
 }
