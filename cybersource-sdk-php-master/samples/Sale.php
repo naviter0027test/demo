@@ -41,6 +41,7 @@ $card = new stdClass();
 $card->accountNumber = '4111111111111111';
 $card->expirationMonth = '12';
 $card->expirationYear = '2020';
+$card->verificationNumber = '005';
 $request->card = $card;
 
 $purchaseTotals = new stdClass();
