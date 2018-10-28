@@ -2,7 +2,7 @@ function scrollToAnchor(aid){
     $('html,body').animate({scrollTop: $(aid).offset().top},'slow');
 }
 
-$(document).ready(function() {
+window.onload = function() {
     $('.productContent').masonry({
         'itemSelector' : '.product',
         'animate' : true,
