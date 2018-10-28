@@ -22,6 +22,7 @@ body {
 .anchorDiv .anchor {
     padding : 10px;
 
+    color : #334d00;
     background : white;
     text-decoration : none;
     opacity : 0.8;
@@ -68,4 +69,8 @@ body {
     -webkit-transition : background 0.5s linear, box-shadow 0.5s linear;
     -ms-transition : background 0.5s linear, box-shadow 0.5s linear;
     -o-transition : background 0.5s linear, box-shadow 0.5s linear;
+}
+
+.product img {
+    width : 200px;
 }
