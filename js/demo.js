@@ -13,4 +13,4 @@ window.onload = function() {
         scrollToAnchor($(this).attr("href"));
         return false;
     });
-});
+};
