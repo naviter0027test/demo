@@ -1,0 +1,17 @@
+#slideBanner img {
+    width : 100%;
+}
+
+.content .item {
+    display : inline-block;
+    width : 30%;
+    padding : 10px;
+
+    text-align : center;
+}
+
+.content .item h4 {
+    font-weight : 800;
+    color : #096484;
+    text-align : center;
+}

@@ -1,0 +1,73 @@
+body a:hover {
+    text-decoration : none;
+}
+
+.header {
+    background : #096484;
+}
+
+.header .nav {
+    display : inline-block;
+}
+
+.header .nav a {
+    display : inline-block;
+    padding : 10px 10px 10px 10px;
+    color : white;
+}
+
+.header .nav a:hover {
+    background : #52accc;
+}
+
+.header .customerSum {
+    display : inline-block;
+    color : white;
+}
+
+.header .search {
+    display : inline-block;
+    float : right;
+}
+
+.header .search input {
+    width : 150px;
+    height : 40px;
+}
+
+.header .search a {
+    padding : 10px 10px 10px 10px;
+
+    color : white;
+    background : #52accc;
+}
+
+.header .search a:hover {
+    color : #096484;
+    cursor : pointer;
+}
+
+.secHeader {
+    width : 100%;
+    text-align : center;
+    background : #74b6ce;
+}
+
+.secHeader a {
+    display : inline-block;
+    padding-top : 20px;
+    padding-bottom : 20px;
+    width : 18%;
+
+    color : white;
+    text-align : center;
+    -webkit-transition: background 1s; /* Safari prior 6.1 */
+    transition: background 1s;
+}
+
+.secHeader a:hover {
+    color : white;
+    background : #096484;
+}
+
+
