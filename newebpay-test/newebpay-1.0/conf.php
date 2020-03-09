@@ -12,5 +12,5 @@ $ClientBackURL   = "http://demo.axcell28.idv.tw/newebpay-test/cancel.html"; 				
 
 $NTD = 100;											//商品價格
 $Order_Title = "梅壞掉紅茶包";		//商品名稱
-$ATM_ExpireDate = 3;						//ATM付款到期日
+$ATM_ExpireDate = 1;						//ATM付款到期日
 ?>
