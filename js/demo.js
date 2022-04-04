@@ -19,7 +19,7 @@ window.onload = function() {
         return false;
     });
     */
-    $(".product [name=showImg]").fancybox();
+    //$(".product [name=showImg]").fancybox();
 
     $(".anchorDiv .anchor").on("click", function() {
         var cls = $(this).attr("href");
