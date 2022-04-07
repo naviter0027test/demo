@@ -79,6 +79,17 @@ body {
     -o-transition : background 0.5s linear, box-shadow 0.5s linear;
 }
 
+.product a.link {
+    padding : 0px;
+
+    color : #333333;
+    background : transparent;
+    text-decoration : underline;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
 .product img {
     width : 200px;
 }
